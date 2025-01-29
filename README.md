@@ -1,4 +1,4 @@
-# CS---SampleProcess
+# CS---SimpleProcess
 Example of simple action with Process 
 
 Using:
