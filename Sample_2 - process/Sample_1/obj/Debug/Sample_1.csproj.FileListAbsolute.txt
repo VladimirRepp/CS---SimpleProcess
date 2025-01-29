@@ -1,0 +1,7 @@
+D:\Системное программирование\2 Процессы\Sample_1\Sample_1\bin\Debug\Sample_1.exe.config
+D:\Системное программирование\2 Процессы\Sample_1\Sample_1\bin\Debug\Sample_1.exe
+D:\Системное программирование\2 Процессы\Sample_1\Sample_1\bin\Debug\Sample_1.pdb
+D:\Системное программирование\2 Процессы\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.AssemblyReference.cache
+D:\Системное программирование\2 Процессы\Sample_1\Sample_1\obj\Debug\Sample_1.csproj.CoreCompileInputs.cache
+D:\Системное программирование\2 Процессы\Sample_1\Sample_1\obj\Debug\Sample_1.exe
+D:\Системное программирование\2 Процессы\Sample_1\Sample_1\obj\Debug\Sample_1.pdb
