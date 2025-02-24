@@ -5,6 +5,7 @@ Using:
   - C#
   - .Net Framework
   - Console
+  - IDE: MVS 2022
 
 Example:
 
